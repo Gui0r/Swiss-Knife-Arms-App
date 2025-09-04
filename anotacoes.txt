@@ -1,0 +1,11 @@
+todas essas correções foram feitas porém o erro raiz que era o texto de bem vindo não sendo exibido em telas menores não foi corrigido, identifique o problema novamente e corrija o do melhor jeito possivel 
+
+pense bem antes de me passar a correção, certifique-se que está tudo correto, pense como se você fosse o melhor programador do mundo. 
+
+tente não criar outros erros tentando corrigir isso
+
+
+
+todas essas correções foram feitas porém o erro raiz que era o texto de bem vindo não sendo exibido em telas menores não foi corrigido, identifique o problema novamente e corrija o do melhor jeito possivel 
+
+pense bem antes de me passar a correção, certifique-se que está tudo correto, pense como se você fosse o melhor programador do mundo. 
